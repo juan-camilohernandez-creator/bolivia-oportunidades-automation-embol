@@ -1,4 +1,5 @@
 # 📊 Automatización Oportunidades Bolivia
+Likn APP: https://bolivia-oportunidades-automation-embol-cbcasffdclshtpdmxkfvj7.streamlit.app/
 
 Automatización completa para la generación del **reporte semanal de Oportunidades Embol Bolivia**, construida en **Python + Streamlit**.
 
@@ -6,7 +7,7 @@ La aplicación permite cargar **5 archivos CSV + 1 plantilla Excel** y genera au
 
 ---
 
-## 🚀 Demo (Interfaz)
+## 🚀 Automatización (Interfaz)
 
 ![App Screenshot](assets/app_screenshot.png)
 
