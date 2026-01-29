@@ -1,5 +1,11 @@
 import streamlit as st
 from pipeline.runner import build_workbook_bytes
+import streamlit as st
+
+st.set_page_config(page_title="Debug Streamlit", layout="wide")
+st.write("🚀 APP.PY CARGADO CORRECTAMENTE")
+st.write("Si ves este texto, Streamlit está ejecutando app.py")
+
 
 st.set_page_config(
     page_title="Automatización Oportunidades Bolivia",
